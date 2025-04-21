@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "c9b61d541c27895f",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f588c7d0cf6773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecf52c5952f0fc2c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69a0b1adede69039",
+    "type": "split",
+    "children": [
+      {
+        "id": "5281b03de26f8dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "731baefb5e031374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3ae0f5688158f0ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5cd9311ce7464e0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7988f4c235808a4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c1b9c5bc9a821f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5688d010899beb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tema TFG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Tema TFG"
+            }
+          },
+          {
+            "id": "2350a5e984912c21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "638057115e0096a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b418b79c59d9b2ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "980e7282f9558274",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "731baefb5e031374",
+  "lastOpenFiles": [
+    "Godot/Apuntes Programación Godot.md",
+    "Hardware/Monitores.md",
+    "Redes/Apuntes.md",
+    "Redes/Modelo OSI.md",
+    "Hardware/Mi Ordenador.md",
+    "Redes",
+    "Hardware",
+    "Godot/Signal Como funciona en CSharp.md",
+    "Godot/Apuntes de Godot Nodos 2D.md",
+    "2025-04-16.md",
+    "Godot/Recomendaciones en Godot.md",
+    "Godot/Configuraciones de Godot.md",
+    "Pasted image 20250416134331.png",
+    "Pasted image 20250416132825.png",
+    "Pasted image 20250416132213.png",
+    "Pasted image 20250416121152.png",
+    "APIs/API Gestión BBDD.md",
+    "Pasted image 20250416115318.png",
+    "Pasted image 20250416115224.png",
+    "Pasted image 20250416115058.png",
+    "Sin título.canvas",
+    "APIs/Crear API's con FastAPI.md",
+    "APIs/Información de API's.md",
+    "TFG/Tema TFG.md",
+    "Notas Ideas.md",
+    "TFG",
+    "APIs/API Superheroes.md",
+    "APIs/API Mail.md",
+    "APIs",
+    "Godot",
+    "Base de datos.md",
+    "Etapas de mi programa.md",
+    "Logica del Juego.md",
+    "Pasted image 20250414191508.png",
+    "Pasted image 20250415195202.png",
+    "Pasted image 20250415193524.png"
+  ]
+}

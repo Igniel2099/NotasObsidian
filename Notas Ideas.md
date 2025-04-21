@@ -1,0 +1,1 @@
+* ¿Imágenes y sprites de personajes donde voy a guardarlos? en mi ordenador o en cada aplicación.

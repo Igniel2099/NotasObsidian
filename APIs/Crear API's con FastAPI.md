@@ -1,0 +1,1 @@
+Esto se hace en python a ver como se pueden implementar
