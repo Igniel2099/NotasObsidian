@@ -1,0 +1,1 @@
+Necesito gestionar todos los usuarios del juego, y los personajes que tiene cada usuario del juego, los niveles que tiene cada usuario del juego, los niveles de los personajes, y el daño de las habilidades, su dinero y sus super puntos

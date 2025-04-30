@@ -11,10 +11,14 @@
             "id": "ecf52c5952f0fc2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Base de datos para mi Juego de Marvel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Base de datos para mi Juego de Marvel"
             }
           }
         ]
@@ -173,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "731baefb5e031374",
+  "active": "ecf52c5952f0fc2c",
   "lastOpenFiles": [
+    "Base de datos para mi Juego de Marvel.md",
     "Godot/Apuntes Programación Godot.md",
     "Hardware/Monitores.md",
     "Redes/Apuntes.md",
